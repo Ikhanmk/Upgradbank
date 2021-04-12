@@ -1,0 +1,5 @@
+Name			Amount
+Imran			1000
+Irfan			20000
+Firdose			300000
+Shabaz			4000000
