@@ -1,6 +1,6 @@
-Account number        Name
-1001			Imran
-1002			Irfan
-1003			Firdose
-1005			Atiq Don
-1004			Shabaz
+Account number        Name		Balance
+1001			Imran		200
+1002			Irfan		300
+1003			Firdose		4000
+1005			Atiq Don	500
+1004			Shabaz		600
